@@ -1,4 +1,4 @@
-function formatNumber(d)
+import function formatNumber(d)
 {
     d = new Decimal(d);
 
