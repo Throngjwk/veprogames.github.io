@@ -1,3 +1,4 @@
+import
 document.body.onload = function () {
     let menu = document.querySelector(".menu");
     let open_menu = document.getElementById("open_menu");
